@@ -1,0 +1,15 @@
+{
+  "name": "cyberfirst-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
